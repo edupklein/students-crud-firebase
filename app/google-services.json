@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "608106821834",
+    "firebase_url": "https://exemploaulaestudantes-default-rtdb.firebaseio.com",
+    "project_id": "exemploaulaestudantes",
+    "storage_bucket": "exemploaulaestudantes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608106821834:android:24d66ef59fd37720099c33",
+        "android_client_info": {
+          "package_name": "br.feevale.estudantefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCxOMnpIzO_Arz07N0NyDIOSYdY_uLTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
